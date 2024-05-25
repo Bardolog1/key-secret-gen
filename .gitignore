@@ -1,0 +1,28 @@
+# carpetas del editor de texto
+.idea
+.vscode
+node_modules
+dist
+build
+
+
+# archivos de configuración
+.vscodeignore
+
+# binarios
+*.exe
+*.dll
+
+# archivos de configuración
+*.cfg
+*.conf
+*.iml
+
+# carpeta de binarios
+bin
+out
+
+# archivos de configuración de windows
+*.bat
+*.cmd
+desktop.ini
